@@ -8,8 +8,8 @@ My application is available on my website https://adamsnipes.io and you can only
 
 My official telegram details are as follows:
 
-Contact me directly: https://t.me/adamsnipes
-Chat with other bot users: https://t.me/adamsnipeschat
-Bot Updates Channel: https://t.me/adamssniperbot
+Contact me directly: https://t.me/adamsnipes <br />
+Chat with other bot users: https://t.me/adamsnipeschat <br />
+Bot Updates Channel: https://t.me/adamssniperbot <br />
 
 Adam's Sniper Bot is a pancakeswap sniper bot that allows users to trade bsc and uniswap tokens from their mobile devices and on their pcs.
