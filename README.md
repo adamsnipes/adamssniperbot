@@ -1,5 +1,5 @@
-# Adams Sniper Bot
-Snipe On The Go With A Redefined Pancakeswap Mobile Botting Experience. Visit Adamsnipes.io for more details. Pancakeswap sniper bot, snipe launches in seconds with Adam's sniper bot.
+# Pancakeswap Sniper Bot & Uniswap Sniper Bot | Adams Sniper Bot
+Pancakeswap Bot, Uniswap Bot, & Avax Bot, Snipe On The Go With A Redefined Pancakeswap Mobile Botting Experience. Visit Adamsnipes.io for more details. Pancakeswap sniper bot, snipe launches in seconds with Adam's sniper bot.
 
 # DO NOT FALL FOR FAKES
 A fake github account has been created to mimick my sniper bot. This is the only official adam snipes repo. If you ask the fake for more information, they'll fail to provide you with any technical details. 
